@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [app-name, flyway, http-client, java, java-application, jdbc-hikari, logback, lombok, maven, netty-server, openapi, postgres, readme, shade, spock, testcontainers, vertx-pg-client, yaml]
